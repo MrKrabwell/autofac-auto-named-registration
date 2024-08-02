@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TG97xY2tMYZJZpYCtj3wzCdVQbdniwaDmZ7+sBXuZsfyzDetwJG8S50y4GObj49/7FOcl0OXlCBBYwF9CrZXWA==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\MrKrabwell\\autofac-auto-named-registration\\AutoNamedRegistrationExample\\AutoNamedRegistrationExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YosukeKanii\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
+    "C:\\Users\\YosukeKanii\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\bin\Debug\net8.0\AutoNamedRegistrationExample.exe
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\bin\Debug\net8.0\AutoNamedRegistrationExample.deps.json
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\bin\Debug\net8.0\AutoNamedRegistrationExample.runtimeconfig.json
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\bin\Debug\net8.0\AutoNamedRegistrationExample.dll
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\bin\Debug\net8.0\AutoNamedRegistrationExample.pdb
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\bin\Debug\net8.0\Autofac.dll
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\obj\Debug\net8.0\AutoNamedRegistrationExample.csproj.AssemblyReference.cache
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\obj\Debug\net8.0\AutoNamedRegistrationExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\obj\Debug\net8.0\AutoNamedRegistrationExample.AssemblyInfoInputs.cache
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\obj\Debug\net8.0\AutoNamedRegistrationExample.AssemblyInfo.cs
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\obj\Debug\net8.0\AutoNamedRegistrationExample.csproj.CoreCompileInputs.cache
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\obj\Debug\net8.0\AutoName.20CCC6AF.Up2Date
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\obj\Debug\net8.0\AutoNamedRegistrationExample.dll
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\obj\Debug\net8.0\refint\AutoNamedRegistrationExample.dll
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\obj\Debug\net8.0\AutoNamedRegistrationExample.pdb
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\obj\Debug\net8.0\AutoNamedRegistrationExample.genruntimeconfig.cache
+C:\Code\MrKrabwell\autofac-auto-named-registration\AutoNamedRegistrationExample\obj\Debug\net8.0\ref\AutoNamedRegistrationExample.dll
